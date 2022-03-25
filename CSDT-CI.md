@@ -60,7 +60,7 @@ Para esta entrega realizaremos el proceso de Continuous Integration con la herra
 
 ### Resultados: 🔎
 
-<p>Gracias a todos los pasos realizados en el proceso es bastante gratificante evidenciar que se pueden realizar pruebas unitarias y ejecuciones de manera autimatica para así tener los proyectos más organizados y estructurados.</p>
+<p>Gracias a todos los pasos realizados en el proceso es bastante gratificante evidenciar que se pueden realizar pruebas unitarias y ejecuciones de manera automatica para así tener los proyectos más organizados y estructurados.</p>
   
 ### Autor  👩‍🎓 👩‍💻
   Yudy Camila Fuentes Pardo
