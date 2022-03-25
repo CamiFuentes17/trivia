@@ -1,11 +1,16 @@
 {
-    "name": "camila/trivia1",
+    "name": "camila/trivia",
     "description": "prueba",
     "type": "project",
     "require": {
         "phpunit/phpunit": "9.5.x-dev"
     },
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Camila\\Trivia\\": "php/"
+        }
+    },
     "authors": [
         {
             "name": "Camila Fuentes",
