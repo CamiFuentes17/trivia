@@ -28,7 +28,7 @@ jobs:
     - name : Run Project
       run: php php/GameRunner.php
     - name : Run test
-      run: ./vendor/bin/phpunit test
+      run: phpunit ./vendor/bin/phpunit test
 
       
     # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
