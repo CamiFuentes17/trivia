@@ -1,0 +1,16 @@
+{
+    "name": "trivia/composer",
+    "description": "Esto es una descripci\u0000n",
+    "type": "project",
+    "require": {
+        "php": "7.4.27"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Camila Fuentes",
+            "email": "Camilapardo1797@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
